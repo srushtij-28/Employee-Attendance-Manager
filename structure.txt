@@ -1,0 +1,26 @@
+A basic but practical Python Employee Attendance Management System. It stores employee attendance in a JSON file and provides a simple menu-driven interface.
+
+📌 Features
+Add employee
+View employees
+Mark attendance
+View attendance
+Search employee
+Calculate attendance percentage
+Delete employee
+JSON data storage
+Simple CLI interface
+
+🛠️ Tech Stack
+Python
+JSON
+File Handling
+Functions
+Lists & Dictionaries
+
+📁 Folder Structure
+employee-attendance-manager/
+│
+├── attendance.py
+├── employees.json
+└── README.md
